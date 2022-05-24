@@ -18,5 +18,5 @@ var canvas = new fabric.Canvas('myCanvas');
  }
 
 function PlaySound(){
-	x.mp3.play();
+	x.play();
 }
